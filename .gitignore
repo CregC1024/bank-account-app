@@ -1,0 +1,18 @@
+# Python / Virtualenv / SQLite
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.db
+backend/.pytest_cache/
+*.sqlite3
+
+# Node / Angular
+bank-frontend/node_modules/
+bank-frontend/dist/
+bank-frontend/.angular/
+bank-frontend/tmp/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
