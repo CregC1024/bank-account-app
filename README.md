@@ -1,3 +1,7 @@
+<img width="1181" height="1189" alt="Screenshot 2026-09-29 at 1 13 42 AM" src="https://github.com/user-attachments/assets/7b18db0e-3bce-4b9c-9a94-bac170191cc0" />
+
+
+
 # 🏦 Bank Account Simulator (FastAPI + Angular)
 
 A full-stack bank account simulation web application built with **Angular** on the frontend and **Python FastAPI** on the backend, backed by **SQLite** for persistent storage.
